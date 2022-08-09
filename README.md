@@ -9,7 +9,7 @@ Hao Li, Zhijing Yang, Xiaobin Hong, Ziying Zhao, Junyang Chen, Yukai Shi, Jinsha
 ---
 
 ## Update - Aug, 2022
-- Released the trainging codes and the test results.
+- Released the training codes and the test results.
 
 ## Abstract
 
