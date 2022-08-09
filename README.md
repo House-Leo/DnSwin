@@ -1,12 +1,15 @@
-# DnSwin 
+# DnSwin
 
-## DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer [[arxiv](https://arxiv.org/abs/2207.13861)]
-### Hao Li, Zhijing Yang, Xiaobin Hong, Ziying Zhao, Junyang Chen, Yukai Shi, Jinshan Pan
+## DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer  [[arxiv](https://arxiv.org/abs/2207.13861)]
 
-### *Guangdong University of Technology, South China University of Technology, Sun Yat-sen University, Nanjing University of Science and Technology*
+Hao Li, Zhijing Yang, Xiaobin Hong, Ziying Zhao, Junyang Chen, Yukai Shi, Jinshan Pan
+
+*Guangdong University of Technology, South China University of Technology, Sun Yat-sen University, Nanjing University of Science and Technology*
+
 ---
+
 ## Update - Aug, 2022
-- Coming Soon.
+- Released the trainging codes and the test results.
 
 ## Abstract
 
@@ -20,14 +23,18 @@ If you find this work useful for your research, please cite:
 @artical{Li2022dnswin,
   title={DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer},
   author={Li, Hao and Yang, Zhijing and Hong, Xiaobin and Zhao, Ziying and Chen, Junyang and Shi, Yukai and Pan, Jinshan},
-  journal={Knowledge-Based Systems},
+  journal={Under Review},
   year={2022}
 }
 ```
 
-## Data
+## Test Results
 
-Download the dataset from [GoogleDrive](https://drive.google.com/drive/folders/1n2NKB7z2r13HAqFUNe4UDjq7d1JoGhU0?usp=sharing).
+You can download the test results (.mat) of our DnSwin in [[Google Drive](https://drive.google.com/drive/folders/1AVxaH_VqbN3et9Uh9uGfvOFskLJbdp_5?usp=sharing)] and evaluate the metrics in the public online page [SIDD Benchmark](https://www.eecs.yorku.ca/~kamel/sidd/benchmark.php) (Method: DnWSTrans) and [DND Benchmark](https://noise.visinf.tu-darmstadt.de/benchmark/#results_srgb) (Method: DnSwin).
+
+## Data Preparation
+
+Download the training datasets from [GoogleDrive](https://drive.google.com/drive/folders/1n2NKB7z2r13HAqFUNe4UDjq7d1JoGhU0?usp=sharing).
 
 Extract the files to `data` folder as follow:
 
