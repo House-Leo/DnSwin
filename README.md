@@ -1,6 +1,6 @@
 # DnSwin
 
-## DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer  [[arxiv](https://arxiv.org/abs/2207.13861)]
+## DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer (KBS 2022) [[arxiv](https://arxiv.org/abs/2207.13861)]
 
 Hao Li, Zhijing Yang, Xiaobin Hong, Ziying Zhao, Junyang Chen, Yukai Shi, Jinshan Pan
 
@@ -23,7 +23,7 @@ If you find this work useful for your research, please cite:
 @artical{Li2022dnswin,
   title={DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer},
   author={Li, Hao and Yang, Zhijing and Hong, Xiaobin and Zhao, Ziying and Chen, Junyang and Shi, Yukai and Pan, Jinshan},
-  journal={Under Review},
+  journal={Knowledge-Based Systems},
   year={2022}
 }
 ```
